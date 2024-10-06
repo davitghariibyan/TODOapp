@@ -1,0 +1,24 @@
+@media screen and (max-width:768px)
+{
+    .App{
+        margin-top: 250px;
+    }
+}
+@media screen and (max-width:480px)
+{
+    .add{
+        padding:20px
+    }
+}
+@media screen and (max-width:350px)
+{
+    .add{
+        padding:10px;
+    }
+    .add input{
+        padding: 2px 8px;
+    }
+    .add button{
+        padding: 5px 15px;
+    }
+}
